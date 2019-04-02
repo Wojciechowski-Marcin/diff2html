@@ -14,7 +14,6 @@
   height: 85%;
   overflow-y: scroll;
   margin-left: 20%;
-  margin-top: 10%;
 }
 
 .d2h-file-link :hover {
@@ -241,7 +240,6 @@
   width: 20%;
   float: left;
   position: fixed;
-  margin-top: 10%;
   height: 100%;
 }
 
